@@ -203,6 +203,7 @@
         margin-left: calc((var(--card-padding)) * -1);
         padding-left: calc(var(--card-padding) - var(--heading-border-size));
         border-left: var(--heading-border-size) solid var(--accent-color);
+        line-height: 4rem;
     }
 
     figure {

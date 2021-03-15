@@ -1,6 +1,6 @@
 ---
 title: Wallpapermag* Poster Challenge
-description: description
+description:
 date: 2020-10-20
 slug: wallpapermag
 image: wallpapermag-posters.png

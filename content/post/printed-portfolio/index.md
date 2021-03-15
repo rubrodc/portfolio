@@ -1,6 +1,6 @@
 ---
 title: Printed Portfolio 2015-2018
-description: description
+description:
 date: 2018-03-02
 slug: printed-portfolio
 image: home-book-works.jpg

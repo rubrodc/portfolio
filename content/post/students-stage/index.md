@@ -1,6 +1,6 @@
 ---
 title: Students Stage Navigator Dreams
-description: description
+description:
 date: 2018-03-03
 slug: studendts-stage
 image: https://cdn.dribbble.com/users/821797/screenshots/4438659/untitled-1.png?compress=1&resize=800x600

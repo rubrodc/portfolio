@@ -1,6 +1,6 @@
 ---
 title: 100 Everyday
-description: description
+description:
 date: 2019-03-02
 slug: 100-everyday
 image: 190808-100everyday-newamerica-poster.jpg

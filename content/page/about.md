@@ -2,13 +2,11 @@
 title: About
 description:
 date: '2021-03-12'
-image: https://preview.redd.it/0bb6dqsiab451.gif?s=b0c65596a54a30708da26669da6e79abf3be1680
+image: https://pro2-bar-s3-cdn-cf1.myportfolio.com/a32dadba-e25e-4a0b-b729-149cf9f5ffd2/2fb2c9ac-9558-489f-8cda-c50b943ce4e4.JPG?h=460c925b36b6b7dffbb8885a44d2aee0
 aliases:
   - about-us
   - about-ruben
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
 menu:
     main:
         weight: -90

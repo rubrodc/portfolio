@@ -1,9 +1,9 @@
 ---
-title: elenao
-description: description
+title: elenao Social Movement
+description:
 date: 2018-04-06
 slug: elenao
-image: https://pro2-bar-s3-cdn-cf4.myportfolio.com/a32dadba-e25e-4a0b-b729-149cf9f5ffd2/5529dab6-b1b4-4d08-a61e-632d9f4ee9e7_rw_1200.jpg?h=1a0cd2b7338ee48e68df53bc6a8fb8c1
+image: elenao-cover.jpg
 categories:
     - poster
 

@@ -1,9 +1,9 @@
 ---
-title: Dove
-description: description
+title: Dove of Vaccine
+description:
 date: 2021-02-12
 slug: dove
-image: https://cdn.dribbble.com/users/821797/screenshots/15114365/media/920883729d8b6787e1626c692b3af66e.png?compress=1&resize=1000x750
+image: paloma_cover.jpg
 categories:
     - Logo
 
@@ -13,12 +13,17 @@ tags:
     - logo
 ---
 
-## I miss summer
+## Vaccine
 
-dojfmmdhudgn
+Me and [Estúdio Ricardo Daniel](https://ricardodaniel.com) joined creative forces to design this graphic celebrating the vaccine release.
 
-## Photos
+### Photos
 
-![Photo by Florian Klauer on Unsplash](florian-klauer-nptLmg6jqDo-unsplash.jpg)  ![Photo by Luca Bravo on Unsplash](luca-bravo-alS7ewQ41M8-unsplash.jpg)
+![Light Blue Version](paloma-blue.jpg)  ![Dark Blue Version](paloma-blue2.jpg)  
 
-![Photo by Helena Hertz on Unsplash](helena-hertz-wWZzXlDpMog-unsplash.jpg)  ![Photo by Hudai Gayiran on Unsplash](hudai-gayiran-3Od_VKcDEAA-unsplash.jpg)
+![Positive Version](paloma-black.jpg)  ![Reverse Color Version](paloma-white.jpg)
+
+
+### Other versions
+
+![Dove Vaccine Explorations](https://cdn.dribbble.com/users/821797/screenshots/15114365/media/920883729d8b6787e1626c692b3af66e.png?compress=1&resize=1000x750)

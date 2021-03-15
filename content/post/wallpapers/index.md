@@ -1,6 +1,6 @@
 ---
 title: Bubbles Wallpapers
-description: description
+description:
 date: 2021-02-26
 slug: bubbles-wallpapers
 image: https://static-2.gumroad.com/res/gumroad/9258108019901/asset_previews/0356a11eb04056770ccdcfa9a872cc2c/retina/COVER_201.png

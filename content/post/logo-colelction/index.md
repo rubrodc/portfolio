@@ -1,6 +1,6 @@
 ---
 title: Logo Collection
-description: description
+description:
 date: 2021-03-02
 slug: logo-collection
 image: logo-cover.jpg
