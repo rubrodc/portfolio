@@ -5,7 +5,7 @@ $defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ffb900, #6b69d6;
 $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
 [data-scheme="light"] {
-    --pre-text-color: #272822;
+    --pre-text-color: #161616;
     --pre-background-color: #fafafa;
     @import "partials/highlight/light.scss";
 }
@@ -30,8 +30,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     --body-background: white; /*light theme*/
 
-    --accent-color: #34495e;
-    --accent-color-darker: #2c3e50;
+    --accent-color: #161616;
+    --accent-color-darker: #161616;
     --accent-color-text: #fff;
     --body-text-color: #919191;
 

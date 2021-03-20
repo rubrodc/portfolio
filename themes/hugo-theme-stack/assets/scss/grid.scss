@@ -4,7 +4,7 @@
 
     &.extended {
         @media (min-width: $on-phone) {
-            max-width: 100vw;
+            max-width: 800px;
 
             .left-sidebar {
                 width: 25%;
@@ -12,7 +12,7 @@
         }
 
         @media (min-width: $on-tablet) {
-            max-width: 90vw;
+            max-width: 972px;
 
             .right-sidebar {
                 width: 25%;
@@ -20,7 +20,7 @@
         }
 
         @media (min-width: $on-desktop) {
-            max-width: 90vw;
+            max-width: 1400px;
 
             .left-sidebar {
                 width: 23%;
@@ -32,7 +32,7 @@
         }
 
         @media (min-width: $on-desktop-large) {
-            max-width: 90vw;
+            max-width: 1536px;
 
             .left-sidebar {
                 width: 45%;

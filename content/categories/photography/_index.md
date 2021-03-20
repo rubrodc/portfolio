@@ -5,5 +5,5 @@ slug: "photography"
 image: "oben1.jpg"
 style:
     background: "LightGreen"
-    color: "#fff"
+    color: "#6f2ffe"
 ---
