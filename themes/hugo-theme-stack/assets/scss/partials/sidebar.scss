@@ -44,9 +44,9 @@
         top: 0;
     }
 
-    @media (max-width: $on-desktop - 1) {
+    /*@media (max-width: $on-desktop - 1) {
         display: none;
-    }
+    }*/
 
     @media (min-width: $on-tablet) {
         margin-left: 1%;
@@ -113,10 +113,10 @@
         color: var(--body-text-color);
         font-weight: normal;
         margin: 10px 0;
-        font-size: 1.8rem;
+        font-size: 1.6rem;
 
         @media (max-width: $on-desktop-large) {
-            font-size: 1.6rem;
+            font-size: 1.5rem;
         }
     }
 }

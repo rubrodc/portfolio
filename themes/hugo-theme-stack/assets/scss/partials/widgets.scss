@@ -17,9 +17,9 @@
 
         a {
             background: var(--card-background);
-            box-shadow: var(--shadow-l1);
             border-radius: var(--tag-border-radius);
             padding: 8px 20px;
+              border: 1.2px solid var(--card-separator-color);
 
             color: var(--card-text-color-main);
             margin-bottom: 10px;
@@ -28,7 +28,8 @@
             transition: box-shadow 0.3s ease;
 
             &:hover {
-                box-shadow: var(--shadow-l2);
+                box-shadow: var(--shadow-l3);
+                background: var(--card-separator-color);
             }
         }
     }
@@ -37,8 +38,8 @@
 /* Archives widget */
 .widget.archives {
     .widget-archive--list {
+        border: 1.2px solid var(--card-separator-color);
         border-radius: var(--card-border-radius);
-        box-shadow: var(--shadow-l1);
         background-color: var(--card-background);
     }
 

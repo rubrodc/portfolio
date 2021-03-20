@@ -1,6 +1,6 @@
 ---
 title: "Photography"
-description: "This is a example category"
+description: "From studio portraits to epic alpine landscapes, browse the best photography, retouching and photojournalism today"
 slug: "photography"
 image: "oben1.jpg"
 style:

@@ -44,7 +44,6 @@
     .main-article {
         background: var(--card-background);
         border-radius: var(--card-border-radius);
-        box-shadow: var(--shadow-l1);
         overflow: hidden;
 
         &.main-article {
@@ -58,6 +57,7 @@
                     width: 100%;
                     max-height: 50vh;
                     object-fit: cover;
+                    border-radius: var(--card-border-radius)
                 }
             }
 
@@ -202,7 +202,7 @@
     h6 {
         margin-left: calc((var(--card-padding)) * -1);
         padding-left: calc(var(--card-padding) - var(--heading-border-size));
-        border-left: var(--heading-border-size) solid var(--accent-color);
+        /*border-left: var(--heading-border-size) solid var(--accent-color);*/
         line-height: 4rem;
     }
 

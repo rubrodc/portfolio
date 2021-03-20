@@ -159,10 +159,10 @@
 
 
         &:not(:last-of-type) {
-            margin-bottom: 15px;
+            margin-bottom: 5px;
 
             @media (min-width: $on-desktop-large) {
-                margin-bottom: 20px;
+                margin-bottom: 5px;
             }
         }
 
@@ -194,6 +194,7 @@
             height: 100%;
             display: inline-flex;
             align-items: center;
+            font-weight: 500;
             color: var(--body-text-color);
 
             @media (max-width: $on-desktop-large) {

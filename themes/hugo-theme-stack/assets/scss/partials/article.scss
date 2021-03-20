@@ -10,11 +10,14 @@
         box-shadow: var(--shadow-l1);
         border-radius: var(--card-border-radius);
         overflow: hidden;
-
+transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
         transition: box-shadow 0.3s ease;
 
         &:hover {
             box-shadow: var(--shadow-l2);
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+                 transform: scale(1.02, 1.02);
+
         }
 
         &:not(:last-of-type) {
@@ -28,7 +31,7 @@
                 object-fit: cover;
 
                 @media (max-width: $on-tablet) {
-                    height: 300px;
+                    height: 250px;
                 }
 
                 @media (min-width: $on-desktop-large) {
@@ -133,8 +136,8 @@
 /* Compact style article list */
 .article-list--compact {
     border-radius: var(--card-border-radius);
-    box-shadow: var(--shadow-l1);
     background-color: var(--card-background);
+      border: 1.2px solid var(--card-separator-color);
     --image-size: 60px;
 
     @media (max-width: $on-tablet) {
@@ -145,11 +148,19 @@
         margin-top: var(--section-separation);
     }
 
+
+
     article {
         & > a {
             display: flex;
             align-items: center;
             padding: var(--small-card-padding);
+        }
+
+        &:hover {
+            background: var(--card-separator-color);
+            border-radius: inherit;
+
         }
 
         &:not(:last-of-type) {
@@ -207,6 +218,7 @@
 
         &:hover {
             box-shadow: var(--shadow-l2);
+
         }
 
         &.has-image {
